@@ -1,0 +1,23 @@
+../data/part_04.csv 11
+../data/part_03.csv 11
+../data/part_09.csv 11
+../data/part_01.csv 11
+../data/part_05.csv 11
+../data1/part_05 (20th copy).csv 14
+../data1/part_09 (3rd copy).csv 14
+../data1/part_09 (another copy).csv 14
+../data1/part_04 (11th copy).csv 14
+../data1/part_01 (10th copy).csv 14
+../data1/part_04 (12th copy).csv 14
+../data1/part_02 (13th copy).csv 14
+../data1/part_06 (6th copy).csv 14
+../data1/part_09 (18th copy).csv 1
+../data1/part_06 (3rd copy).csv 1
+../data1/part_09 (another copy).csv 14
+../data1/part_04 (11th copy).csv 14
+../data1/part_01 (10th copy).csv 14
+../data1/part_04 (12th copy).csv 14
+../data1/part_02 (13th copy).csv 14
+../data1/part_06 (6th copy).csv 14
+../data1/part_09 (17th copy).csv 14
+../data1/part_09 (19th copy).csv 14
